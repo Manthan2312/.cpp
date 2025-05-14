@@ -29,4 +29,6 @@ int main()
     }
 
     return 0;
+
+    cout<<"How are you"<<endl;
 }
